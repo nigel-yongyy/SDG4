@@ -75,6 +75,6 @@ const validateInputs = () => {
            setSuccess(password);
            setSuccess(username);
            setSuccess(password2)
-           alert('Login Successful');
+           alert('Sign Up Successful');
        }
    };
