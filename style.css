@@ -730,14 +730,6 @@ h3{
     background-color: #f3f3f3;
 }
 
-.g4t-table tbody tr:last-of-type {
-    border-bottom: 2px solid #C5192D;
-}
-
-
-
-
-
 
 @media (max-width:768px){
     .org-column{
