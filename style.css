@@ -595,10 +595,6 @@ h3{
 }
 
 @media (max-width:768px){
-    
-    .banner2{
-        min-height: 25vh;
-    }
 
     .banner2-text{
         position: absolute;
